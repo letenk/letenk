@@ -1,8 +1,6 @@
-## Hello, Welcome to the Jabutech Repository aka @Rizky Darmawan personal note 👋
+## 🌱 Hello, Welcome to the my Repository aka Laboratory 🧪💻
 
-## 🌱 Welcome to my repository aka Laboratory !!!
-
-Hi, I'm Rizky Darmawan.
+I'm Rizky Darmawan.
 
 A Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years, I am currently focusing on backend Engineering.
 
