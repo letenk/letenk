@@ -10,7 +10,7 @@ Happy to share and documenting experiences by writing a blog on the site **jabut
 
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/jabutech/
 
-### 🤝 Social Media
+### 🤝 Personal Social Media
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/rizkydarmawan_letenk/
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
