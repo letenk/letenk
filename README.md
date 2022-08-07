@@ -1,13 +1,18 @@
 ## Hello, Welcome to the Jabutech Repository aka @Rizky Darmawan personal note 👋
 
-### 🌱 Here I will share what I know and gladly learn. Let's grow together!!!
+## 🌱 Welcome to my repository aka Laboratory !!!
 
-### 🤝 Social Media Jabutech
+Hi, I'm Rizky Darmawan.
+
+A Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years, I am currently focusing on backend Engineering.
+
+Skilled in PHP, GO, and NodeJS, including the frameworks for each of them.
+
+Happy to share and documenting experiences by writing a blog on the site **jabutech.com** and in Instagram **Jabutech**.
+
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/jabutech/
 
-🔗 https://www.jabutech.com/
-
-### 🤝 Social Media Rizky Darmawan (Owner)
+### 🤝 Social Media
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/rizkydarmawan_letenk/
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
