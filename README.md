@@ -4,7 +4,9 @@
 - 👨‍💻 &nbsp;I am currently focusing on backend Engineering with Go (Golang), previously a Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years. 
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/rizkydarmawan/)
 - 📝 &nbsp;I've blog in [Jabutech](https://www.jabutech.com/)
-
+#### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 #### Languages :
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
