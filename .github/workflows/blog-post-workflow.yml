@@ -14,4 +14,5 @@ jobs:
       - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          # max_post_count: 10
           feed_list: "https://www.jabutech.com/index.xml"
