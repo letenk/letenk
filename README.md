@@ -1,23 +1,12 @@
-## 🌱 Hello, Welcome to the my Repository aka Laboratory 🧪💻
+## 🌱 Hi there
 
-I'm Rizky Darmawan.
-
-A Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years, I am currently focusing on backend Engineering.
-
-Skilled in PHP, GO, and NodeJS, including the frameworks for each of them.
-
-Happy to share and documenting experiences by writing a blog on the site **jabutech.com** and in Instagram **Jabutech**.
-
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/jabutech/
-
-### 🤝 Personal Social Media
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/rizkydarmawan_letenk/
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-https://www.linkedin.com/in/rizkydarmawan/
+- 🔭 &nbsp;I'm Rizky Darmawan. Thanks for reaching me out.
+- 👨‍💻 &nbsp;I am currently focusing on backend Engineering with Go (Golang), previously a Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years. 
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/rizkydarmawan/)
+- 📝 &nbsp;I've blog in [Jabutech](https://www.jabutech.com/)
 
 #### Languages :
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -28,6 +17,7 @@ https://www.linkedin.com/in/rizkydarmawan/
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Database :
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,6 +28,8 @@ https://www.linkedin.com/in/rizkydarmawan/
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
