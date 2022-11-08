@@ -6,6 +6,7 @@
 - 📝 &nbsp;I've blog in [Jabutech](https://www.jabutech.com/)
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal net/http Default Package Golang](https://jabutech.com/posts/mengenal-net-http-default-package-golang/)
 - [Environment Variable Pada Golang](https://jabutech.com/posts/environment-variable-pada-golang/)
 - [Cara Deploy Aplikasi Golang Dan Database Mysql Ke Heroku](https://jabutech.com/posts/cara-deploy-aplikasi-golang-dan-database-mysql-ke-heroku/)
 - [Deploy Aplikasi React Js Ke Vercel Dari Github](https://jabutech.com/posts/deploy-aplikasi-react-js-ke-vercel-dari-github/)
