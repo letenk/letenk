@@ -6,11 +6,11 @@
 - 📝 &nbsp;I've blog in [Jabutech](https://www.jabutech.com/)
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Dasar #6 - Constant](https://jabutech.com/posts/golang-dasar-6-constant/)
 - [Membuat Minimal Docker Image Dengan Golang](https://jabutech.com/posts/membuat-minimal-docker-image-dengan-golang/)
 - [Golang Dasar #5 - Tipe Data](https://jabutech.com/posts/golang-dasar-5-tipe-data/)
 - [Mengenal net/http Default Package Golang](https://jabutech.com/posts/mengenal-net-http-default-package-golang/)
 - [Environment Variable Pada Golang](https://jabutech.com/posts/environment-variable-pada-golang/)
-- [Cara Deploy Aplikasi Golang Dan Database Mysql Ke Heroku](https://jabutech.com/posts/cara-deploy-aplikasi-golang-dan-database-mysql-ke-heroku/)
 <!-- BLOG-POST-LIST:END -->
 #### Languages :
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
