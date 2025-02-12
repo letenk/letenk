@@ -3,7 +3,7 @@
 - 🔭 &nbsp;I'm Rizky Darmawan. Thanks for reaching me out.
 - 👨‍💻 &nbsp;I am currently focusing on backend Engineering with PHP (Laravel), Go (Golang), previously a Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years. 
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/rizkydarmawan/)
-- 📝 &nbsp;I've blog in [Jabutech](https://www.jabutech.com/)
+- 📝 &nbsp;I've blog in [dev.to](https://dev.to/letenk)
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Mengenal Context Pada Golang](https://jabutech.com/posts/context-pada-golang/)
