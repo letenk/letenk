@@ -6,11 +6,11 @@
 - 📝 &nbsp;I've blog in [dev.to](https://dev.to/letenk)
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mengenal Context Pada Golang](https://jabutech.com/posts/context-pada-golang/)
-- [Golang Dasar #6 - Constant](https://jabutech.com/posts/golang-dasar-6-constant/)
-- [Membuat Minimal Docker Image Dengan Golang](https://jabutech.com/posts/membuat-minimal-docker-image-dengan-golang/)
-- [Golang Dasar #5 - Tipe Data](https://jabutech.com/posts/golang-dasar-5-tipe-data/)
-- [Mengenal net/http Default Package Golang](https://jabutech.com/posts/mengenal-net-http-default-package-golang/)
+- [Basic Concept and Benefit of Api Gateway](https://rizkynotes.com/posts/basic-concept-and-benefit-of-api-gateway/)
+- [Connection Pool in Backend Development Basic Concept Benefits and Implementation](https://rizkynotes.com/posts/connection-pool-in-backend-development-basic-concept-benefits-and-implementation/)
+- [Mastering Enum in Golang](https://rizkynotes.com/posts/mastering-enum-in-golang/)
+- [Defensive Programming as a Backend Developer Building Robust and Secure Systems](https://rizkynotes.com/posts/defensive-programming-as-a-backend-developer-building-robust-and-secure-systems/)
+- [How to Handle Time Zones and Sync Your Software on the Server Side Using Go](https://rizkynotes.com/posts/how-to-handle-time-zones-and-sync-your-software-on-the-server-side-using-go/)
 <!-- BLOG-POST-LIST:END -->
 #### Languages :
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
