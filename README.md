@@ -1,9 +1,12 @@
 ## 🌱 Hi there
 
-- 🔭 &nbsp;I'm Rizky Darmawan. Thanks for reaching me out.
-- 👨‍💻 &nbsp;I am currently focusing on backend Engineering with PHP (Laravel), Go (Golang), previously a Fullstack Web Developer Programmer with developing experience in web applications for 2 experiences years. 
-- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/rizkydarmawan/)
-- 📝 &nbsp;I've blog in [dev.to](https://dev.to/letenk)
+- 🔭 &nbsp;Hi, I'm **Rizky Darmawan** — a Backend Engineer passionate about building reliable and maintainable systems.
+- 👨‍💻 &nbsp;Currently focusing on **Go (Golang)** and **PHP (Laravel)**, with experience in designing APIs, database optimization, and clean code practices.
+- 📝 &nbsp;I write about software engineering:
+  - In Bahasa Indonesia at [rizkynotes.com](https://rizkynotes.com/)
+  - In English at [dev.to/letenk](https://dev.to/letenk)
+- 📫 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/rizkydarmawan/)
+
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Basic Concept and Benefit of Api Gateway](https://rizkynotes.com/posts/basic-concept-and-benefit-of-api-gateway/)
@@ -12,31 +15,32 @@
 - [Defensive Programming as a Backend Developer Building Robust and Secure Systems](https://rizkynotes.com/posts/defensive-programming-as-a-backend-developer-building-robust-and-secure-systems/)
 - [How to Handle Time Zones and Sync Your Software on the Server Side Using Go](https://rizkynotes.com/posts/how-to-handle-time-zones-and-sync-your-software-on-the-server-side-using-go/)
 <!-- BLOG-POST-LIST:END -->
+
 #### Languages :
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Framework :
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-#### Database :
+#### Databases :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-#### Tools :
+#### Messaging & Cache :
+![Redis](https://img.shields.io/badge/Redis-D92B21?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+#### Tools & Platforms :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
