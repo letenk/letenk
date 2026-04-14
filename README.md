@@ -10,10 +10,10 @@
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [About](https://rizkynotes.com/about/)
+- [Portfolio](https://rizkynotes.com/portfolio/)
 - [Basic Concept and Benefit of Api Gateway](https://rizkynotes.com/posts/basic-concept-and-benefit-of-api-gateway/)
 - [Connection Pool in Backend Development Basic Concept Benefits and Implementation](https://rizkynotes.com/posts/connection-pool-in-backend-development-basic-concept-benefits-and-implementation/)
 - [Mastering Enum in Golang](https://rizkynotes.com/posts/mastering-enum-in-golang/)
-- [Defensive Programming as a Backend Developer Building Robust and Secure Systems](https://rizkynotes.com/posts/defensive-programming-as-a-backend-developer-building-robust-and-secure-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Languages :
