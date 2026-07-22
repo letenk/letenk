@@ -9,11 +9,11 @@
 
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Registry Pattern &amp; Dispatcher Pattern: Cara Elegan Mengelola Banyak Provider](https://rizkynotes.com/posts/registry-pattern-dispatcher-pattern-cara-elegan-mengelola-banyak-provider/)
 - [Cutting Deployment Time by 80% with GitHub Actions and Docker](https://rizkynotes.com/posts/cutting-deployment-time-by-80-with-github-actions-and-docker/)
 - [About](https://rizkynotes.com/about/)
 - [Portfolio](https://rizkynotes.com/portfolio/)
 - [Basic Concept and Benefit of Api Gateway](https://rizkynotes.com/posts/basic-concept-and-benefit-of-api-gateway/)
-- [Connection Pool in Backend Development Basic Concept Benefits and Implementation](https://rizkynotes.com/posts/connection-pool-in-backend-development-basic-concept-benefits-and-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Languages :
